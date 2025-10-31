@@ -3,6 +3,8 @@
 ## Readme
 
 - [ ] Continue document (more details, and better writing).
+	- [ ] explain parallax (concept + implementation)
+	- [ ] explain cycle (concept + implementation)
 
 
 ## Scripts
@@ -16,7 +18,8 @@
 ## Samples
 
 - [ ] Make better sample scene
-	- [ ] Sprites instead of 3D objects
+	- [ ] Sprites instead of 3D objects\
+		(look in my documents for texture import settings "textureimport-presets-settings.jpg")
 	- [ ] Add a light to 1 of the layer objects?
 - [ ] Create prefab object for background.\
 	=> With horizon 3 (empty) layers.

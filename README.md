@@ -2,6 +2,11 @@
 
 2D Parallax Scrolling in Unity.
 
+Based on the "[Parallax Background](https://www.youtube.com/watch?v=bhR4d2KgNO4&list=PLyH-qXFkNSxmDU8ddeslEAtnXIDRLPd_V&index=7)" video of the "2D Platformer Crash Course" YouTube series from [Chris' Tutorials](https://www.youtube.com/@ChrisTutorialsYT).\
+The implemented parallax contained bugs and issues (such as reverse arallax effect), which have been corrected in this implementation.
+
+Additionally, the "cycle" feature was added, to have infinite backgrounds (repeatable elements as the camera moves).
+
 
 ## Usage
 
@@ -71,8 +76,3 @@ X		eg a 3D plane, align it to camera (-90 on X axis to face camera)
 			(further from player => higher parallax effect)
 		+ scale, rename...
 	! - Layer objects should only have their Z position property changed (set to desired Z depth with camera, player, and horizon), all other transform properties should be the identity.
-
-
-## Acknowledgements
-
-**TODO:** mention youtube tutorial that served as base for the parallax (required fixes).
