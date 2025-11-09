@@ -9,6 +9,10 @@
 
 ## Scripts
 
+- [ ] parallax
+	- [ ] jittering?\
+		=> if so, check:
+			https://youtu.be/AoRBZh6HvIk?t=260
 - [ ] `CycleScroller`
 	- [ ] Add checkbox for "child object" (as opposed to external object)\
 		=> If "child object", automatically detect/use the child game object as "Item".
